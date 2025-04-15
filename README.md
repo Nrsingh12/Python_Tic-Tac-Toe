@@ -1,9 +1,5 @@
 # Python_Tic-Tac-Toe
 
-Here's a simple and clear `README.md` file for your `tic_tac_toe.py` project:
-
----
-
 # Tic Tac Toe (Terminal Version)
 
 A fun and interactive **Tic Tac Toe** game built in Python for the terminal. Two players can play turn-by-turn, placing Xs and Os on a grid, with a clear ASCII-based UI.
