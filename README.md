@@ -1,6 +1,4 @@
-# Python_Tic-Tac-Toe
-
-# Tic Tac Toe (Terminal Version)
+# Python Tic Tac Toe (Terminal Version)
 
 A fun and interactive **Tic Tac Toe** game built in Python for the terminal. Two players can play turn-by-turn, placing Xs and Os on a grid, with a clear ASCII-based UI.
 
