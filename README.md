@@ -54,6 +54,3 @@ Player 1 is winner!
 
 This is a basic project for learning purposes. Feel free to use and modify it!
 
----
-
-Would you like a version of this with emojis, markdown badges, or as a GitHub README with sections like demo screenshots or video?
